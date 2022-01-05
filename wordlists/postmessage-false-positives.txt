@@ -1,0 +1,4 @@
+postMessage(null)
+importScripts
+serviceWorker
+void 0

@@ -1,0 +1,17 @@
+# example file format
+domains:
+  allows_bruteforce: true
+  chaos_zip_link: https://chaos-data.projectdiscovery.io/shopify.zip
+  in_scope:
+    wildcard:
+      - shopifycloud.com
+  out_scope:
+    single:
+      - investors.shopify.com
+      - partner-training.shopify.com
+      - community.shopify.com
+      - livechat.shopify.com
+      - cdn.shopify.com
+      - go.shopify.com
+    wildcard:
+      - email.shopify.com
