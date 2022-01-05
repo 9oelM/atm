@@ -39,6 +39,8 @@ sudo ./install.sh
 ```
 
 # Scripts
+See under `/scripts` directory.
+
 ```
 atm-beautify-js.sh
 atm-clean-words.sh
