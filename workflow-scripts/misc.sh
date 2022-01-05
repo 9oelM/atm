@@ -1,1 +1,0 @@
-cat shopify.yml | yq '.domains.out_scope.single[]' |  xargs | sed -e 's/\s/\,/g'
